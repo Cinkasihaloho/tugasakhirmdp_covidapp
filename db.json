@@ -1,0 +1,34 @@
+{
+    "country":[
+        {
+            "id":1,
+            "name":"Indonesia",
+            "flag":"id"
+        },
+        {
+            "id":2,
+            "name":"Malaysia",
+            "flag":"my"
+        },
+        {
+            "id":3,
+            "name":"Thailand",
+            "flag":"th"
+        },
+        {
+            "id":4,
+            "name":"Singapore",
+            "flag":"sg"
+        },
+        {
+            "id":5,
+            "name":"Philippines",
+            "flag":"ph"
+        },
+        {
+            "id":6,
+            "name":"Vietnam",
+            "flag":"vn"
+        }
+    ]
+}
