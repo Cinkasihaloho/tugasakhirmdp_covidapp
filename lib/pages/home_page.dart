@@ -22,7 +22,13 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
         appBar: AppBar(
           automaticallyImplyLeading: false,
-          title: const Text("Covid App"),
+          title: const Text(
+            "Covid App",
+            style: TextStyle(color: Colors.indigo, fontWeight: FontWeight.bold),
+          ),
+          centerTitle: true,
+          backgroundColor: Colors.transparent,
+          elevation: 0,
         ),
         body: getBody(),
         bottomNavigationBar: _buildBottomBar());
